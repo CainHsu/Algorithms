@@ -11,4 +11,4 @@
 
 ## 算法
 ### 1.Fundamentals
-#### [Union-Find](.\1.Fundamentals\Union-Find.md) 
+#### [Union-Find](1.Fundamentals/Union-Find.md) 
