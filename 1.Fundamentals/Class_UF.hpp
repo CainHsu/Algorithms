@@ -16,6 +16,7 @@ public:
     int findCount();
     bool isConnected(int p, int q);
     void connect(int p, int q);
+    ~WeightedQuickUnionUF();
 };
 
 #endif //ALGORITHMS_CLASS_UF_HPP

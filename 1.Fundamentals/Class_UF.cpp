@@ -45,4 +45,8 @@ void WeightedQuickUnionUF::connect(int p, int q) {
     count--;
 }
 
+WeightedQuickUnionUF::~WeightedQuickUnionUF() {
+    delete [] id;
+    delete [] sz;
+}
 
